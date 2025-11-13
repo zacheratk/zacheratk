@@ -6,9 +6,8 @@
 ---
 
 ## 🔧 Skills
-- **Languages:** JavaScript, Python, Java  
-- **Frameworks & Tools:** React.js, HTML, CSS, PostgreSQL (via Supabase)  
-- **Backend:** Familiar with authentication, API integration, and database management  
+- **Languages:** JavaScript, Python, Java, SQL
+- **Frameworks & Tools:** React.js, FastAPI, HTML, CSS, PostgreSQL
 
 ---
 
@@ -28,9 +27,9 @@ A **fun web app** where users can create and store custom Pokémon teams.
 ---
 
 ## 🌱 Currently Learning
-- Deepening backend development with **PostgreSQL**  
-- Exploring NoSQL alternatives like **MongoDB**  
-- Implementing custom backends with **Python (Flask/FastAPI)**  
+- Continuing to deepen my knowledge of **PostgreSQL**  
+- Learning **Ansible** for configuration management
+- Understanding **CI/CD** pipelines and best practices
 
 ---
 

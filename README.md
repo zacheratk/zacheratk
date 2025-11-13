@@ -27,7 +27,8 @@ A **fun web app** where users can create and store custom Pokémon teams.
 ---
 
 ## 🌱 Currently Learning
-- Continuing to deepen my knowledge of **PostgreSQL**  
+- Continuing to deepen my knowledge of **PostgreSQL**
+- Building my knowledge of **Amazon Web Services (AWS)**
 - Learning **Ansible** for configuration management
 - Understanding **CI/CD** pipelines and best practices
 
